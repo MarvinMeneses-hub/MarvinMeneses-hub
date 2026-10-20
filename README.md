@@ -1,71 +1,45 @@
-# Hi, I'm Marvin 🌸
-
+Marvin M. Meneses
 BSIT Student | Aspiring Software Developer
 
-Welcome to my GitHub profile! I'm an Information Technology student who enjoys building web applications, exploring software development, and learning how technology can solve real-world problems.
+Building skills today. Creating solutions for tomorrow.
+
+Welcome to my GitHub profile! I am an Information Technology student passionate about exploring technology, developing practical applications, and turning ideas into functional digital solutions. Through academic projects and laboratory activities, I continue to strengthen my programming, problem-solving, and software development skills.
 
 About Me
 
-- Currently studying **Bachelor of Science in Information Technology (BSIT)**
-- Working on academic projects and web-based systems
-- Continuously learning programming, database management, and system integration
-- Interested in building practical, user-friendly software
-- Using my projects to strengthen my technical skills and development experience
+- 🎓 Bachelor of Science in Information Technology student
+- 💻 Interested in web development, database systems, and application development
+- 🛠️ Learning through hands-on projects and collaborative work
+- 🌱 Continuously improving my technical knowledge and development practices
 
-Technologies & Tools
+Technical Toolkit
 
-Languages and Web Technologies
+Languages & Web:HTML, CSS, JavaScript, PHP  
+Database:MySQL  
+Framework:Laravel  
+Development Tools:Visual Studio Code, XAMPP, Git, and GitHub
 
-- PHP
-- JavaScript
-- HTML5
-- CSS3
+Selected Projects
 
-Database & Development Tools
+- EduBridge Academy LMS — A learning management system designed to support digital education.
+- Inventory Management System — An application focused on organizing and managing inventory records.
+- Banking System— A software project exploring account management and transaction processing.
 
-- MySQL
-- Git & GitHub
-- Visual Studio Code
-- XAMPP
+Laboratory Portfolio
 
-*Technologies listed here reflect the tools I've worked with in my projects; I'm continuing to develop my skills.*
+Explore my web development laboratory activities, source code, and practical exercises.
 
-Featured Projects
+📂 [IT Laboratories Repository](https://github.com/MarvinMeneses-hub/IT-Laboratories-WEB)  
+🌐 [View Laboratory Website](https://marvinmeneses-hub.github.io/IT-Laboratories-WEB/)
 
-EduBridge Academy LMS
-A web-based Learning Management System focused on supporting course management, user roles, and learning activities.
+My Development Philosophy
 
-[View Repository](https://github.com/MarvinMeneses-hub/edubridge-academy-lms)
+> Every project is an opportunity to learn, every challenge is a chance to improve, and every line of code brings an idea closer to reality.
 
-Inventory Management System
-An inventory management project for organizing product information and inventory-related workflows.
+## Connect
 
-[View Repository](https://github.com/MarvinMeneses-hub/inventory-management)
+🔗 [GitHub Profile](https://github.com/MarvinMeneses-hub)
 
-Banking System
-A banking system project focused on account information, balances, and transaction management.
+---
 
-[View Repository](https://github.com/MarvinMeneses-hub/banking-system)
-
-Academic Projects
-
-Explore my laboratory exercises and coursework:
-
-- [Laboratory Exercise](https://github.com/MarvinMeneses-hub/LABORATORY-EXERCISE)
-- [Lab 2](https://github.com/MarvinMeneses-hub/lab2_2411600030)
-- [Lab 3](https://github.com/MarvinMeneses-hub/lab3_2411600030_MENESES)
-- [Lab 4](https://github.com/MarvinMeneses-hub/lab4_2411600030)
-
-Current Goals
-
-- Improve my programming and problem-solving skills
-- Build reliable, maintainable web applications
-- Learn more about software architecture and system integration
-- Write clear documentation for my projects
-- Develop a stronger portfolio through hands-on practice
-
-Connect With Me
-
-- GitHub: [@MarvinMeneses-hub](https://github.com/MarvinMeneses-hub)
-
- Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey. 🌸
+*Learning with purpose. Developing with curiosity. Growing through technology.*

@@ -1,62 +1,57 @@
 # Marvin M. Meneses
 
-### BSIT Student | Aspiring Software Developer
+**BSIT Student | Aspiring Software Developer**
 
-🚀 **Go Go GO lang tayo sa pag Co Co CODING!** 💻
+*Go Go GO lang tayo sa pag Co Co CODING.*
 
-Welcome to my GitHub profile! I'm a Bachelor of Science in Information Technology student building practical skills through programming, laboratory exercises, documentation, and software projects. I enjoy learning by doing, solving problems, and turning ideas into working applications.
+I am a Bachelor of Science in Information Technology student developing practical skills in software development, database systems, and web technologies. I use academic projects and hands-on practice to strengthen my technical knowledge and problem-solving abilities.
 
-## 👨‍💻 About Me
+## About
 
-- 🎓 BSIT student — 3rd Year, 1st Semester
-- 🌐 Interested in web development and application development
-- 🗄️ Exploring database design, SQL, and data integrity
-- 🧩 Learning about system analysis, software architecture, and integration
-- 📚 Building my skills through academic activities and hands-on projects
+- Third-year BSIT student
+- Interested in web and application development
+- Learning database design, system analysis, and software integration
+- Building practical experience through coursework and projects
 
-## 🛠️ Technical Toolkit
+## Technical Skills
 
-**Web Development:** HTML, CSS, JavaScript, PHP  
-**Database:** MySQL  
-**Framework:** Laravel  
-**Tools:** Visual Studio Code, XAMPP, Git, GitHub
+- **Languages:** HTML, CSS, JavaScript, PHP
+- **Database:** MySQL
+- **Framework:** Laravel
+- **Tools:** Visual Studio Code, XAMPP, Git, GitHub
 
-## 🚀 Current Academic Portfolio
+## Academic Portfolio
 
-My **3rd Year – 1st Semester Activities** repository organizes my coursework, laboratory exercises, documentation, and projects by subject.
+My semester repository organizes coursework, laboratory activities, documentation, and projects across four subjects.
 
-📂 **[Open the Semester Activities Repository](https://github.com/MarvinMeneses-hub/3rd-Year-1st-Sem-Activities)**  
-🌐 **[Explore the Live Portfolio Dashboard](https://marvinmeneses-hub.github.io/3rd-Year-1st-Sem-Activities/)**
-
-### 📚 Subjects
+- [Semester Activities Repository](https://github.com/MarvinMeneses-hub/3rd-Year-1st-Sem-Activities)
+- [Live Portfolio Dashboard](https://marvinmeneses-hub.github.io/3rd-Year-1st-Sem-Activities/)
 
 | Subject | Focus |
 | --- | --- |
 | **Advanced Database** | Database design, SQL, relationships, and data integrity |
 | **System Analysis Design** | Requirements analysis, system modeling, and documentation |
-| **System Integrated Architecture** | Application architecture, software integration, and system connectivity |
+| **System Integrated Architecture** | Application architecture, software integration, and connectivity |
 | **Web System and Technologies** | Web development, backend programming, and web applications |
 
-## 💻 Projects
+## Selected Projects
 
-- **EduBridge Academy LMS** — A learning management system project focused on supporting digital learning workflows.
-- **Inventory Management System** — An application project focused on inventory records and management.
-- **Banking System** — A web development project exploring banking-related workflows.
+- **EduBridge Academy LMS** — A learning management system project.
+- **Inventory Management System** — An application for managing inventory records.
+- **Banking System** — A web development project focused on banking-related workflows.
 
-> These projects reflect my learning and development work; features and completion status may vary by project.
+*Project scope and completion status may vary.*
 
-## 🌱 My Development Philosophy
+## Development Approach
 
-> Every project is an opportunity to learn, every challenge is a chance to improve, and every line of code brings an idea closer to reality.
+I value clear structure, practical problem-solving, and continuous improvement. Each project is an opportunity to learn, refine my skills, and build more useful software.
 
-I'm continuing to practice, experiment, and improve one project at a time.
+## Contact
 
-## 🤝 Connect
-
-- 🐙 **[GitHub Profile](https://github.com/MarvinMeneses-hub)**
-- 📚 **[Semester Coursework](https://github.com/MarvinMeneses-hub/3rd-Year-1st-Sem-Activities)**
-- 🌐 **[Live Portfolio](https://marvinmeneses-hub.github.io/3rd-Year-1st-Sem-Activities/)**
+- [GitHub Profile](https://github.com/MarvinMeneses-hub)
+- [Coursework Repository](https://github.com/MarvinMeneses-hub/3rd-Year-1st-Sem-Activities)
+- [Live Portfolio](https://marvinmeneses-hub.github.io/3rd-Year-1st-Sem-Activities/)
 
 ---
 
-*Learning with purpose. Developing with curiosity. Growing through technology.*
+*Learning with purpose. Building with intention.*

@@ -4,18 +4,18 @@
 
 *Go Go GO lang tayo sa pag Co Co CODING.*
 
-I am a Bachelor of Science in Information Technology student developing practical skills in software development, database systems, and web technologies. I use academic projects and hands-on practice to strengthen my technical knowledge and problem-solving abilities.
+I am a Bachelor of Science in Information Technology student at the beginning of my software development journey. I am still learning the fundamentals of programming, databases, and web technologies through classes, assignments, and hands-on practice. Every activity helps me understand more, improve step by step, and build confidence in solving problems.
 
 ## About
 
 - Third-year BSIT student
-- Interested in web and application development
-- Learning database design, system analysis, and software integration
-- Building practical experience through coursework and projects
+- Currently learning web and application development
+- Developing my understanding of databases, system analysis, and software integration
+- Gaining experience through coursework, laboratory activities, and projects
 
-## Technical Skills
+## Technologies and Tools I Am Learning
 
-- **Languages:** HTML, CSS, JavaScript, PHP
+- **Web:** HTML, CSS, JavaScript, PHP
 - **Database:** MySQL
 - **Framework:** Laravel
 - **Tools:** Visual Studio Code, XAMPP, Git, GitHub
@@ -37,14 +37,14 @@ My semester repository organizes coursework, laboratory activities, documentatio
 ## Selected Projects
 
 - **EduBridge Academy LMS** — A learning management system project.
-- **Inventory Management System** — An application for managing inventory records.
+- **Inventory Management System** — An application project involving inventory records.
 - **Banking System** — A web development project focused on banking-related workflows.
 
 *Project scope and completion status may vary.*
 
-## Development Approach
+## Learning Approach
 
-I value clear structure, practical problem-solving, and continuous improvement. Each project is an opportunity to learn, refine my skills, and build more useful software.
+I do not claim to know everything yet. I am learning through practice, mistakes, and feedback, one step at a time. My goal is to keep improving and gradually turn what I learn in class into useful projects.
 
 ## Contact
 
@@ -54,4 +54,4 @@ I value clear structure, practical problem-solving, and continuous improvement. 
 
 ---
 
-*Learning with purpose. Building with intention.*
+*Learning step by step. Improving through practice.*
